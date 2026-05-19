@@ -13,9 +13,9 @@ graph = Neo4jGraph(
 
 def main():
     query = """\
-    MATCH 
-        (p:Person)-[r:LIVES_IN]->(c:City)        
-    RETURN p.name AS Name, c.name AS City    
+    MATCH (p:Person)-[r:LIVES_IN]->(c:City)
+    WHERE p.age >= 30 AND c.name = "서울"        
+    RETURN p    
     """
     result = graph.query(query)
     print(result)
