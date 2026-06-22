@@ -8,4 +8,3 @@ Cypher의 기본적인 구성요소와, 기본 구문을 살펴봅니다.
   * 📝 [match_test.py](./match_test.py) - MATCH 구문 테스트
   * 📝 [set_test.py](./set_test.py) - SET 구문 테스트
   * 📝 [remove_test.py](./remove_test.py) - REMOVE 구문 테스트
-  
