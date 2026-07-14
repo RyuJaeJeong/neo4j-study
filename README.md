@@ -14,3 +14,5 @@
 * 🔹 `전문 검색` : Full-Text Index를 활용한 텍스트 기반 노드 검색
 * 🔹 `벡터 검색` : 고차원 임베딩 벡터를 활용한 유사도 분석
 * 🔹 `Graph RAG` : 지식 그래프(Knowledge Graph)와 LLM의 결합 구조 이해
+
+### 🎮 [Toy 1: Steam 게임 데이터 분석 및 추천 ](https://github.com/RyuJaeJeong/find-my-steam-game)
