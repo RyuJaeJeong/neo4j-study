@@ -16,3 +16,4 @@
 * 🔹 `Graph RAG` : 지식 그래프(Knowledge Graph)와 LLM의 결합 구조 이해
 
 ### 🎮 [Toy 1: Steam 게임 데이터 분석 및 추천 ](https://github.com/RyuJaeJeong/find-my-steam-game)
+* 🔹 `온톨로지 생성(1)` : 판다스를 활용한 데이터 핸들링(https://velog.io/@finance/STUDY2607-판다스를-활용한-데이터-핸들링)
